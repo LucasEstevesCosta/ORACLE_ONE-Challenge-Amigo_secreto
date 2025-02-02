@@ -1,5 +1,5 @@
 # ORACLE_ONE-Challenge-Amigo_secreto
-
+Página do projeto no GitHub Pages: https://lucasestevescosta.github.io/ORACLE_ONE-Challenge-Amigo_secreto/
  
 ## Amigo Secreto
 O objetivo deste desafio, é desenvolver uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
