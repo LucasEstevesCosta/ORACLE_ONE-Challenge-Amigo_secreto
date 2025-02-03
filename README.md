@@ -27,6 +27,8 @@ Os nomes inseridos são exibidos em uma lista visível na página e o botão "So
 
 ## Principais Características
 
+<img src=assets/features-giff.gif>
+
 1. Sorteio automático e aleatório
 2. Os nomes sorteados são retirados da lista
 
